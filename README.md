@@ -1,6 +1,6 @@
 # BinX-ai-ml-internship-week2
 
-# Week 2 - Math Foundations & EDA
+## Week 2 - Math Foundations & EDA
 
 **Overview:**
 This week was about building the math foundations that ML models rest on - descriptive statistics, probability, and linear algebra - and then putting that understanding to work through a full Exploratory Data Analysis (EDA) on real datasets.
